@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752332920330",
+    "project_id": "danek-books",
+    "storage_bucket": "danek-books.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752332920330:android:1af3d529b710643057f1f3",
+        "android_client_info": {
+          "package_name": "com.example.danek_books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752332920330-q5khosv6nvbnsdh7kc8skljfeh72ks0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danek_books",
+            "certificate_hash": "5a6a7027c08279ca2431db9fb8adda7980e1d463"
+          }
+        },
+        {
+          "client_id": "752332920330-cu9la6rllqb05ink516vmsrutev4gie3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOP1YXv1aC1e18AfZDF4vzU4MTGyo948"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752332920330-cu9la6rllqb05ink516vmsrutev4gie3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
